@@ -1,1 +1,2 @@
-﻿  SmartPointers.vcxproj -> E:\OneDrive - Infotech (Private) Limited\GitFolders\SmartPointers\SmartPointers\x64\Debug\SmartPointers.exe
+﻿  UniquePointer.cpp
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SmartPointers\SmartPointers\SmartPointers\UniquePointer.cpp(75,32): error C2065: 'P2': undeclared identifier
